@@ -1,3 +1,11 @@
+# Related Blog (Written in Japanese)  
+
+- [LM Studio + ローカルLLM (Qwen3、Gemma3、Mellum) なモデルを設定した JetBrains AI Assistant に、Chrome拡張を作らせてみた - メモ的な思考的な](https://thinkami.hatenablog.com/entry/2025/05/05/231057)
+
+The following is a description for LLM.
+
+---
+
 # Problem to be solved
 
 Websites with the amazon.co.jp domain (henceforth referred to as Amazon) have multiple URLs pointing to the same web page, depending on how they were accessed. When you want to introduce Amazon's page to others, you may copy and paste the address bar of Chrome, but in some cases, you may end up sharing a long URL, which is difficult for both parties to understand.
