@@ -1,0 +1,14 @@
+{
+  "name": "Amazon URL Normalizer",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "Converts long Amazon URLs to a standardized format.",
+  "permissions": [
+    "webNavigation",
+    "tabs",
+    "https://www.amazon.co.jp/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
