@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Amazon URL Standardizer",
+  "version": "1.0",
+  "description": "Redirects Amazon URLs to the standardized dp/ format.",
+  "permissions": [
+    "webRequest",
+    "webNavigation"
+  ],
+  "host_permissions": [
+    "https://www.amazon.co.jp/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
